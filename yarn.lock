@@ -7081,6 +7081,16 @@ pretty-error@^2.0.2:
     lodash "^4.17.20"
     renderkid "^2.0.4"
 
+primeicons@^4.1.0:
+  version "4.1.0"
+  resolved "https://registry.yarnpkg.com/primeicons/-/primeicons-4.1.0.tgz#19eaef8ef5594b0006358ae64e738d03e167c9bb"
+  integrity sha512-uEv2pSPk1zQCfaB2VgnUfnUxxlGryYi+5rbdxmZBBt5v9S/pscIQYS5YDLxsQZ7D9jn5c76+Tx5wX/2J1nK6sA==
+
+primevue@^3.1.1:
+  version "3.1.2"
+  resolved "https://registry.yarnpkg.com/primevue/-/primevue-3.1.2.tgz#34f5be6701d2d90e9bf53ef3cb3e096ac585398f"
+  integrity sha512-1Wt3D37u7s5NwhIL0uPHX7qecTVsS6MGABI2w7TreYvcw7cbaZHRVd0RCaSUwl2crENTRWFTBA55Djgd9K0oCA==
+
 process-nextick-args@~2.0.0:
   version "2.0.1"
   resolved "https://registry.npm.taobao.org/process-nextick-args/download/process-nextick-args-2.0.1.tgz#7820d9b16120cc55ca9ae7792680ae7dba6d7fe2"
